@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sialater69.github.io/csb-4tyq1t/static/css/main.0e26e2a0.chunk.css",
+    "main.js": "https://sialater69.github.io/csb-4tyq1t/static/js/main.c9bd06aa.chunk.js",
+    "main.js.map": "https://sialater69.github.io/csb-4tyq1t/static/js/main.c9bd06aa.chunk.js.map",
+    "runtime-main.js": "https://sialater69.github.io/csb-4tyq1t/static/js/runtime-main.1489bf6c.js",
+    "runtime-main.js.map": "https://sialater69.github.io/csb-4tyq1t/static/js/runtime-main.1489bf6c.js.map",
+    "static/js/2.03470c4e.chunk.js": "https://sialater69.github.io/csb-4tyq1t/static/js/2.03470c4e.chunk.js",
+    "static/js/2.03470c4e.chunk.js.map": "https://sialater69.github.io/csb-4tyq1t/static/js/2.03470c4e.chunk.js.map",
+    "index.html": "https://sialater69.github.io/csb-4tyq1t/index.html",
+    "static/css/main.0e26e2a0.chunk.css.map": "https://sialater69.github.io/csb-4tyq1t/static/css/main.0e26e2a0.chunk.css.map",
+    "static/js/2.03470c4e.chunk.js.LICENSE.txt": "https://sialater69.github.io/csb-4tyq1t/static/js/2.03470c4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1489bf6c.js",
+    "static/js/2.03470c4e.chunk.js",
+    "static/css/main.0e26e2a0.chunk.css",
+    "static/js/main.c9bd06aa.chunk.js"
+  ]
+}
